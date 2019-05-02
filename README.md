@@ -6,7 +6,7 @@ This June marks 25 years since I was paralyzed in a gymnastics performance. So m
 
 I may get a few details wrong and need you all to fill in the blanks, so, please shoot me an email to mike@mikeritteronline.com or file an issue at https://github.com/mikeritteronline/mikeritteronline.github.io/issues.
 
-## The Moment My Life Changed
+## :astonished: The Moment My Life Changed
 
 *POP*! That deafening blast rang through my ears as I lay motionless on the blue foam mat. I could not move. Dave was right there asking me asking me questions and offering reassuring encouragement. I just knew I could not stop the tears falling from my eyes as I lay face-first in a pool of tears and drool.
 
@@ -18,8 +18,8 @@ In time several folks pulled the mats I was lying on apart from the row, careful
 
 Around me the chaos and uncertainty met the faith and determination of our team. It was the first of countless times my community would rally to meet my needs. We were together in our devastation. My brother, Jarred, helplessly observing his big brother lying there. The sponsors on the phone trying to get medical care to me. The friends praying on the side as they worked to finish the performance. The ministry leaders bearing the weight of responsibility for this tragedy. The calls to my parents back in Florida informing them their son was injured.
 
-## A Week in Paradise
+## :beach_umbrella: A Week in Paradise
 
-## Not a Typical Athlete
+## :running_man: Not a Typical Athlete
 
-## Completely Paralyzed
+## :wheelchair: Completely Paralyzed
