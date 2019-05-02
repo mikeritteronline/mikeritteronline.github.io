@@ -4,7 +4,7 @@ I'm writing my memoirs!
 
 This June marks 25 years since I was paralyzed in a gymnastics performance. So many times I've wanted to write my story from a number of perspectives. With this milestone anniversary the time seems right. Please share the journey with me the next few months.
 
-I may get a few details wrong and need you all to fill in the blanks, so, please shoot me an email to mike@mikeritteronline.com or file an issue at [https://github.com/mikeritteronline/mikeritteronline.github.io/issues].
+I may get a few details wrong and need you all to fill in the blanks, so, please shoot me an email to mike@mikeritteronline.com or file an issue at https://github.com/mikeritteronline/mikeritteronline.github.io/issues.
 
 ## The Moment My Life Changed
 
