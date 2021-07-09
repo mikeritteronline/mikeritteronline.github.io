@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Mike Ritter Portfolio Site",
+    "description": "This portfolio website is my showcase for published client websites, proofs of concept, and other projects.",
+    "image": "/assets/img/mike-ritter-online-portfolio-screen-shot.png",
+    "image-alt": "Screen capture of the home page of my portfolio site.",
+    "url": "https://mikeritteronline.com",
+    "tags": ["bootstrap","static site generator","eleventy","github","netlify"]
+  }
+]

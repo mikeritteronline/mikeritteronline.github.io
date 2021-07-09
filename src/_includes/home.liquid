@@ -6,15 +6,48 @@ layout: default
         <div class="row align-content-center">
             <div class="col-md d-flex flex-column justify-content-center">
                 <h1 class="py-md-5 text-uppercase">{{ headline }}</h1>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fuga laborum nulla officiis pariatur quo sequi, temporibus? Aliquam dolorem, eligendi labore odit perferendis quasi quibusdam quis vitae voluptas? Ducimus, perferendis!</p>
-                <p class="text-center"><button class="btn btn-success btn-lg">button</button></p>
+                <p class="">{{ description }}</p>
+                <p class="text-center py-3"><a href="{{ "learn-more" | url }}" class="btn btn-info btn-lg text-uppercase">Learn More</a></p>
             </div>
             <div class="col-md">
-                <img src="//placehold.it/1024x1024" alt=""  class="img-fluid">
+                <figure class="">
+                    <div class="">
+                        <img src="{{ image }}" alt="{{ image-description }}" class="img-fluid">
+                    </div>
+                    <figcaption>
+                        {% if image-attribution %}
+                            {{ image-attribution }}
+                        {% endif %}
+                    </figcaption>
+                </figure>
             </div>
         </div>
     </div>
 </header>
 <div>
-    {{ content }}
+
+    <section id="Projects" class="container py-5">
+        <article class="row">
+            <div class="col col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+
+                {% for project in projects %}
+
+                    <header><h1 class="h2">{{ project.title }}</h1></header>
+                    <figure class="figure">
+                        <img src="{{ project.image }}" alt="{{ project.image-alt }}" class="img-fluid figure-img">
+                        <figcaption class="figure-caption">{{ project.description }}</figcaption>
+                    </figure>
+                    <footer>
+                        <p>{% if project.url %}<a href="{{ project.url }}" title="{{ project.title }}">visit website</a> {% endif %}</p>
+                        <p class="h4">Tags:</p>
+                        <ul class="list-inline">
+                            {% for tag in project.tags %}
+                                <li class="list-inline-item">{{ tag }}</li>
+                            {% endfor %}
+                        </ul>
+                    </footer>
+                {% endfor %}
+            </div>
+        </article>
+    </section>
 </div>
